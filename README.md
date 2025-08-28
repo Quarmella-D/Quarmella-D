@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Quarmella
 
-  - 👀 I am interested in 
+  - 👀 I am interested in programming design 
   - 🏫 I am currently learning JavaScript, Python, C++, and HTML.
   - 🏢 I am currently not working on any new projects but would love to soon.
 
